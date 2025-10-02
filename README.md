@@ -31,7 +31,7 @@ Utilizei o "Copilot" para para gerar a imagem.
 ## 🚀 Resultados
 O imagem apresenta um conteúdo visualmente realista, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na geração de imagens.
 
-[LINK PARA a imagem AQUI]()
+[LINK PARA a imagem AQUI](https://github.com/RobsonVallerioteNascimento/lab-natty-or-not/blob/main/imagem/Copilot_20251002_080228.png)
 
 ## 💭 Reflexão
 Criar esta imagem foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes tarefas.

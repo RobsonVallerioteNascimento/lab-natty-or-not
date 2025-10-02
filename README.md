@@ -17,26 +17,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Jornada da IA: Auxiliando um programador 🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imagem de um programador sendo auxiliado por um robô con tendo IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[copilot](https://copilot.microsoft.com/)** para roteirização;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "Copilot" para para gerar a imagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O imagem apresenta um conteúdo visualmente realista, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na geração de imagens.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA a imagem AQUI]()
+
+## 💭 Reflexão
+Criar esta imagem foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes tarefas.
 
 ### Exemplos e Insigths
 
